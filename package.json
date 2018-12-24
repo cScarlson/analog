@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://cScarlson@bitbucket.org/novologix/analytics.git"
+    "url": "git+https://github.com/cScarlson/analog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/novologix/analytics#readme",
+  "homepage": "https://github.com/cScarlson/analog#readme",
   "devDependencies": {
     "bootstrap": "^4.0.0",
     "http-server": "^0.11.1",
